@@ -1,0 +1,14 @@
+{
+  "customOrder": {
+    "/": [
+      "数据类型.md",
+      "常量与变量.md",
+      "存储类.md",
+      "运算符.md",
+      "头文件.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
