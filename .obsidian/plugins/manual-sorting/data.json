@@ -5,7 +5,18 @@
       "常量与变量.md",
       "存储类.md",
       "运算符.md",
-      "头文件.md"
+      "判断.md",
+      "循环.md",
+      "函数.md",
+      "头文件.md",
+      "Img"
+    ],
+    "Img": [
+      "Img/break语句流程图.jpg",
+      "Img/break语句示例.jpg",
+      "Img/continue语句流程图.jpg",
+      "Img/continue语句示例.jpg",
+      "Img/goto语句流程图.png"
     ]
   },
   "sortOrder": "customOrder",
